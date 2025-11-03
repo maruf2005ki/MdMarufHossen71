@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Md Maruf Hossen 👋
+# 👋 Hi there, I'm Md Maruf Hossen
 
 ### Full Stack Developer | UI/UX Enthusiast | Creative Designer | Open Source Contributor
 
@@ -16,6 +16,8 @@
 
 I'm a passionate Full Stack Developer and Creative Designer from Bangladesh, dedicated to crafting elegant solutions through code and design. I specialize in modern web technologies and love building intuitive, user-centric interfaces that make a real impact.
 
+### 💻 What I Do
+
 ```javascript
 const maruf = {
     location: "Bangladesh",
@@ -26,12 +28,59 @@ const maruf = {
 };
 ```
 
-- 🔭 Currently working on innovative web applications and design projects
-- 🌱 Learning advanced Next.js patterns, TypeScript, and design systems
-- 👯 Open to collaborating on front-end projects, open-source initiatives, and creative ventures
-- 💬 Ask me about React, JavaScript, Web Design, or UI/UX
-- 📫 Reach me at: **mdmarufhossen@duck.com**
-- 🌐 Portfolio: **[mdmarufhossen71.github.io](https://mdmarufhossen71.github.io/)**
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 My Expertise
+
+**Frontend Architecture**
+- Component design & React patterns
+- Performance optimization
+- Responsive web design
+- Animation & micro-interactions
+
+**Backend Development**
+- RESTful API design
+- Database modeling
+- Server-side optimization
+- Authentication & security
+
+**Design Systems**
+- UI/UX best practices
+- Design tokens
+- Accessibility (WCAG)
+- Figma prototyping
+
+</td>
+<td width="50%">
+
+### 💡 Creative Developer Profile
+
+**Philosophy**
+> "Every pixel tells a story,
+> every line of code serves a purpose.
+> Design and development should
+> work together seamlessly."
+
+**Current Focus**
+- 🔭 Building innovative web applications
+- 🌱 Learning advanced patterns
+- 👯 Open to collaboration
+- 💬 Ask me about React & Design
+- 📫 mdmarufhossen@duck.com
+
+**Key Achievements**
+- Full-stack web development
+- Design system creation
+- Open-source contributions
+- Community engagement
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -125,19 +174,15 @@ const maruf = {
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - Visit my [Medium](https://medium.com/@mdmarufhossen71) for articles on web development
 - Check out my [Substack](https://substack.com/@mdmarufhossen) for creative insights
 - Explore my [CodePen](https://codepen.io/mdmarufhossen71) for code experiments
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
 
 ### 💡 "Code is poetry, design is art, and together they create magic."
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **Thank you for visiting my profile! Let's connect and build something amazing together.**
 
