@@ -126,6 +126,46 @@ const maruf = {
 
 ---
 
+## 📈 Advanced Metrics
+
+<div align="center">
+
+### Repository Performance
+
+![Repository Stats](./images/image.png)
+
+</div>
+
+---
+
+## 🎯 Coding Analytics
+
+<div align="center">
+
+### Language Distribution
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmarufhossen71&layout=pie&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+### Contribution Calendar
+
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmarufhossen71&theme=react_dark)
+
+### Coding Habits
+
+![Habits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmarufhossen71&theme=react_dark)
+
+### Lines of Code
+
+![Lines of Code](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmarufhossen71&theme=react_dark)
+
+### Project Licenses
+
+![Licenses Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmarufhossen71&theme=react_dark)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
