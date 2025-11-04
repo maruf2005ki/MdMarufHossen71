@@ -172,46 +172,81 @@ const maruf = {
 
 ---
 
-## ✨ Professional Approach
+## 🎨 My Creative Vision & Expertise
 
 <div align="center">
 
-### Engineering Excellence Through Design
+### Transforming Ideas Into Digital Experiences
 
-My approach centers on delivering robust, scalable solutions that balance technical precision with exceptional user experience. I focus on creating products that are both functionally superior and visually refined.
+<br>
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   ░▒▓█►  DESIGN  ◄█▓▒░                                    ║
+║   ░▒▓█►  ENGINEER  ◄█▓▒░                                  ║
+║   ░▒▓█►  INNOVATE  ◄█▓▒░                                  ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
+### 🌟 What I Bring to the Table
+
+<div align="center">
+
+| Category | What I Do |
+|----------|-----------|
+| **✨ Design** | Pixel-perfect interfaces with thoughtful interactions & animations |
+| **⚡ Performance** | Lightning-fast applications optimized for 60fps smoothness |
+| **🎯 Strategy** | User research-driven solutions that solve real problems |
+| **🔧 Development** | Production-ready code that's clean, tested & maintainable |
+| **♿ Accessibility** | WCAG compliant designs inclusive for all users |
+| **📱 Responsive** | Seamless experiences across all devices & screen sizes |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Core Competencies
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### Core Principles
-
-**Technical Excellence**
-Writing maintainable, performant code is fundamental to every project. I prioritize clean architecture, comprehensive testing, and scalable solutions that stand the test of time.
-
-**Design Integrity**
-Strategic design decisions drive user engagement. Through careful consideration of typography, color theory, and spatial relationships, I create interfaces that communicate clearly and effectively.
-
-**Performance Optimization**
-Performance is not negotiable. From optimized rendering and efficient algorithms to lazy loading and code splitting, every technical decision prioritizes speed and responsiveness.
+#### 🎨 UI/UX Design
+**Visual Storytelling**
+- Design systems & component libraries
+- Micro-interactions & animations
+- Typography & color theory
+- Prototyping & wireframing
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### Methodology
+#### ⚙️ Full-Stack Development
+**Technical Craftsmanship**
+- React & modern frameworks
+- API design & backend architecture
+- Database optimization
+- Performance tuning
 
-**User-Centered Development**
-Success is measured by user outcomes. Through research-driven design, usability testing, and iterative refinement, I ensure solutions meet real user needs.
+</td>
+<td align="center" width="33%">
 
-**Accessibility First**
-Building inclusive products is a core responsibility. WCAG 2.1 AA compliance, semantic markup, keyboard navigation, and screen reader optimization are implemented from the start.
-
-**Continuous Improvement**
-Technology evolves rapidly. I maintain cutting-edge expertise through continuous learning, experimentation with emerging patterns, and active participation in the developer community.
+#### 🚀 Product Thinking
+**Strategic Execution**
+- User-centered development
+- Problem-solving mindset
+- Collaborative approach
+- Continuous improvement
 
 </td>
 </tr>
@@ -221,15 +256,30 @@ Technology evolves rapidly. I maintain cutting-edge expertise through continuous
 
 <div align="center">
 
-### Deliverables
+### 🌈 My Process
 
-**Front-End Engineering** | Component architecture, state management, performance optimization
+```
+IDEATE → DESIGN → PROTOTYPE → DEVELOP → TEST → REFINE → SHIP
+   ↑                                              ↓
+   └──────────────── ITERATE ────────────────────┘
+```
 
-**User Interface Design** | Design systems, responsive layouts, interaction patterns
+**Every project follows a thoughtful, iterative approach ensuring**
+quality at every stage, from initial concept to final delivery.
 
-**Technical Implementation** | RESTful APIs, database design, authentication systems
+</div>
 
-**Quality Assurance** | Unit testing, integration testing, accessibility audits
+---
+
+<div align="center">
+
+### ✨ Why Work Together
+
+- **🎨 Creative Problem Solver** - I don't just implement designs; I elevate them
+- **💡 Innovation Minded** - Always exploring new techniques and technologies
+- **🤝 Collaborative Partner** - I listen, adapt, and communicate clearly
+- **🏆 Results Driven** - Success metrics guide every decision
+- **📈 Detail Oriented** - No pixel goes unnoticed, no bug goes unsquashed
 
 </div>
 
