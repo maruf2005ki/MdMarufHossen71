@@ -172,55 +172,64 @@ const maruf = {
 
 ---
 
-## ✨ My Creative Vision
+## ✨ Professional Approach
 
 <div align="center">
 
-### Where Design Meets Technology
+### Engineering Excellence Through Design
 
-I believe in creating experiences, not just interfaces. Every pixel, every interaction, every animation serves a purpose. My work bridges the gap between stunning visual design and seamless functionality.
+My approach centers on delivering robust, scalable solutions that balance technical precision with exceptional user experience. I focus on creating products that are both functionally superior and visually refined.
 
-<br>
+</div>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║      ████  ██████  ███████  ██  ██  ██  ██  ██████     ║
-║      █   █ █       █         █  ██   ███   █ █           ║
-║      ████  █████   █████     █  ██   ██ █  █ █████       ║
-║      █   █ █       █         █  █ █  █  █  █      █     ║
-║      ████  ██████  █          █  █  ██   █ ██████       ║
-║                                                           ║
-║                  Crafting Excellence                      ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+---
 
-### 🎯 Design Philosophy
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Aesthetic Excellence**
-Every pixel is intentional. Color harmony, typography precision, and visual balance are non-negotiable. I create interfaces that are not just functional, but beautiful.
+### Core Principles
 
-**User-Centric Innovation**
-I obsess over the user experience. Micro-interactions, smooth animations, and intuitive navigation make every interaction feel natural and delightful.
+**Technical Excellence**
+Writing maintainable, performant code is fundamental to every project. I prioritize clean architecture, comprehensive testing, and scalable solutions that stand the test of time.
 
-**Performance Perfection**
-Speed is a feature. Every design decision considers performance—smooth 60fps animations, optimized assets, and lightning-fast load times.
+**Design Integrity**
+Strategic design decisions drive user engagement. Through careful consideration of typography, color theory, and spatial relationships, I create interfaces that communicate clearly and effectively.
 
-**Accessible & Inclusive**
-Great design works for everyone. WCAG compliance, semantic HTML, and inclusive thinking are built into every project from day one.
+**Performance Optimization**
+Performance is not negotiable. From optimized rendering and efficient algorithms to lazy loading and code splitting, every technical decision prioritizes speed and responsiveness.
 
-### ⚡ What Sets Me Apart
+</td>
+<td width="50%" valign="top">
 
-- 🎨 Visual design that drives engagement
-- 💻 Clean, maintainable code that scales
-- 🚀 Performance-first mindset in everything
-- 🔄 Responsive design for all devices
-- ✨ Attention to micro-interactions and animations
-- 📱 Mobile-first approach
-- ♿ Accessibility built-in, not bolted-on
+### Methodology
 
-*I don't just build websites. I craft digital experiences that inspire, engage, and delight.*
+**User-Centered Development**
+Success is measured by user outcomes. Through research-driven design, usability testing, and iterative refinement, I ensure solutions meet real user needs.
+
+**Accessibility First**
+Building inclusive products is a core responsibility. WCAG 2.1 AA compliance, semantic markup, keyboard navigation, and screen reader optimization are implemented from the start.
+
+**Continuous Improvement**
+Technology evolves rapidly. I maintain cutting-edge expertise through continuous learning, experimentation with emerging patterns, and active participation in the developer community.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Deliverables
+
+**Front-End Engineering** | Component architecture, state management, performance optimization
+
+**User Interface Design** | Design systems, responsive layouts, interaction patterns
+
+**Technical Implementation** | RESTful APIs, database design, authentication systems
+
+**Quality Assurance** | Unit testing, integration testing, accessibility audits
 
 </div>
 
