@@ -178,75 +178,44 @@ const maruf = {
 
 ### Transforming Ideas Into Digital Experiences
 
-<br>
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ░▒▓█►  DESIGN  ◄█▓▒░                                    ║
-║   ░▒▓█►  ENGINEER  ◄█▓▒░                                  ║
-║   ░▒▓█►  INNOVATE  ◄█▓▒░                                  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+I specialize in building beautiful, functional digital products that users love. My approach blends strategic thinking, creative design, and solid engineering.
 
 </div>
 
 ---
 
-### 🌟 What I Bring to the Table
+### 💼 What I Deliver
 
 <div align="center">
 
-| Category | What I Do |
-|----------|-----------|
-| **✨ Design** | Pixel-perfect interfaces with thoughtful interactions & animations |
-| **⚡ Performance** | Lightning-fast applications optimized for 60fps smoothness |
-| **🎯 Strategy** | User research-driven solutions that solve real problems |
-| **🔧 Development** | Production-ready code that's clean, tested & maintainable |
-| **♿ Accessibility** | WCAG compliant designs inclusive for all users |
-| **📱 Responsive** | Seamless experiences across all devices & screen sizes |
+**UI/UX Design** · **Full-Stack Development** · **Product Strategy** · **Performance Optimization**
 
 </div>
 
 ---
-
-<div align="center">
-
-### 🎯 Core Competencies
-
-</div>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-#### 🎨 UI/UX Design
-**Visual Storytelling**
-- Design systems & component libraries
-- Micro-interactions & animations
-- Typography & color theory
-- Prototyping & wireframing
+### 🎨 Design Excellence
 
-</td>
-<td align="center" width="33%">
-
-#### ⚙️ Full-Stack Development
-**Technical Craftsmanship**
-- React & modern frameworks
-- API design & backend architecture
-- Database optimization
-- Performance tuning
+✦ **Visual Systems** — Cohesive design languages that scale
+✦ **User Experience** — Intuitive interactions that delight
+✦ **Motion & Animation** — Purposeful movement that enhances
+✦ **Accessibility** — Inclusive by design, WCAG 2.1 AA compliant
+✦ **Responsive Design** — Perfect on every screen size
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-#### 🚀 Product Thinking
-**Strategic Execution**
-- User-centered development
-- Problem-solving mindset
-- Collaborative approach
-- Continuous improvement
+### ⚡ Technical Mastery
+
+✦ **Clean Code** — Maintainable, tested, production-ready
+✦ **Performance** — Optimized for speed and efficiency
+✦ **Architecture** — Scalable systems built to last
+✦ **Modern Stack** — React, TypeScript, Next.js & beyond
+✦ **Full-Stack** — Frontend to backend, database to API
 
 </td>
 </tr>
@@ -256,30 +225,11 @@ const maruf = {
 
 <div align="center">
 
-### 🌈 My Process
+### 🚀 Development Philosophy
 
-```
-IDEATE → DESIGN → PROTOTYPE → DEVELOP → TEST → REFINE → SHIP
-   ↑                                              ↓
-   └──────────────── ITERATE ────────────────────┘
-```
+> Build once, scale infinitely. Design with intention, code with precision.
 
-**Every project follows a thoughtful, iterative approach ensuring**
-quality at every stage, from initial concept to final delivery.
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Why Work Together
-
-- **🎨 Creative Problem Solver** - I don't just implement designs; I elevate them
-- **💡 Innovation Minded** - Always exploring new techniques and technologies
-- **🤝 Collaborative Partner** - I listen, adapt, and communicate clearly
-- **🏆 Results Driven** - Success metrics guide every decision
-- **📈 Detail Oriented** - No pixel goes unnoticed, no bug goes unsquashed
+**User Research** ↝ **Strategic Design** ↝ **Solid Engineering** ↝ **Continuous Refinement**
 
 </div>
 
